@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Person head -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,23a12,12 0,1 0,0 24a12,12 0,1 0,0 -24z" />
+    <!-- Person body -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M38,50c0,-8.8 7.2,-16 16,-16s16,7.2 16,16v15h-32v-15z" />
+    <!-- Counter/table -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,65h68v8h-68z" />
+    <!-- Cash register base -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M60,50h20v15h-20z" />
+    <!-- Cash register screen -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M62,45h16v5h-16z" />
+</vector>
